@@ -1,0 +1,18 @@
+# 编译产物
+bin/
+obj/
+
+# 打包分发文件
+*.zip
+HealthyPet_分发包/
+
+# 日志与临时构建输出
+*.log
+build_output.txt
+build_result.txt
+build_tests_result.txt
+
+# Visual Studio 临时文件
+*.user
+*.suo
+.vs/
